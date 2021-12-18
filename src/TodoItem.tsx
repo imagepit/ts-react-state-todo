@@ -7,7 +7,7 @@ class TodoItem extends Component<Todo>{
             <li>
                 {this.props.title}
             </li>
-        )
+        );
     }
 }
 

@@ -17,7 +17,7 @@ class TodoList extends Component<Tasks>{
                     {list}
                 </ul>
             </div>
-        )
+        );
     }
 }
 
